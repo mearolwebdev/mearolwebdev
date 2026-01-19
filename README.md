@@ -1,15 +1,15 @@
 ### 👋 Привет, я Артём, любитель программирования, по образованию инженер-геофизик
-**Backend Developer | Data Engineer | DevOps** (укажите свою специализацию)
+**Web Full-stack Developer | Data Engineer | Seismic** (укажите свою специализацию)
 
 Кратко о себе: 1-2 предложения о ваших ключевых интересах, технологиях или философии в разработке.
 
 ---
 
 ### 🛠️ Мой стек и инструменты
-**Языки:** Python, MatLAB, LaTeX, HTML, CSS, SQL  
-**Бэкенд:** FastAPI, Django, PostgreSQL, Redis, RabbitMQ  
-**Инфраструктура:** Docker, Kubernetes, Terraform, AWS/GCP  
-**Инструменты:** Git, Linux, Grafana, Kafka
+**Языки:** Python, MatLAB, LaTeX, HTML, CSS, PHP, SQL  
+**Бэкенд:** Django, Laravel  
+**Инфраструктура:** Docker
+**Инструменты:** Git, Linux
 
 *(Сгруппируйте технологии логически, а не просто списком)*
 
@@ -23,9 +23,7 @@
 ---
 
 ### 📫 Как со мной связаться
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](ваша_ссылка)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mearol_webdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](ссылка_на_профиль)
 
 
 <!--
