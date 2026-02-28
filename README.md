@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Мой стек и инструменты
-**Языки:** Python, MatLAB, GO, LaTeX, HTML, CSS, PHP, SQL  
+**Языки:** Python, MatLAB, GO, LaTeX, HTML, CSS
 **Фрейворки:** Django
 **Инфраструктура:** Docker  
 **Инструменты:** Git, MacOS/Linux/Windows  
