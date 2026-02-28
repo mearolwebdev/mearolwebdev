@@ -1,29 +1,29 @@
 ### 👋 Привет, я Артём, любитель программирования, по образованию инженер-геофизик
-**Web Full-stack Developer | Data Engineer | Seismic** (укажите свою специализацию)
+**Web Full-stack Developer | Data Engineer | Seismic**
 
 Начал изучать программирование для задач автоматизации рутиных процессов в геофизике и сейсморазведке.
-Мечтаю стать Full Stack Web-разработчиком
+В качестве хобби хотел бы стать Full Stack Web-разработчиком
 
 ---
 
 ### 🛠️ Мой стек и инструменты
-**Языки:** Python, MatLAB, LaTeX, HTML, CSS, PHP, SQL  
-**Бэкенд:** Django, Laravel  
+**Языки:** Python, MatLAB, GO, LaTeX, HTML, CSS, PHP, SQL  
+**Фрейворки:** Django
 **Инфраструктура:** Docker  
 **Инструменты:** Git, MacOS/Linux/Windows  
 **Графика:** MS PowerPoint, CorelDRAW, Adobe Illustrator, Figma
 
 ---
-
+<!--
 ### 📈 Активность и проекты
 Здесь можно выделить 2-3 ключевых проекта с кратким описанием и ссылками.
 - **[Название проекта](ссылка)** – Краткое описание, решенная задача, стек.
 - **[Еще проект](ссылка)** – Что интересного/сложного было реализовано.
-
+-->
 ---
 
 ### 📫 Как со мной связаться
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mearol_webdev@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mearol_ds@mail.ru)
 
 
 <!--
